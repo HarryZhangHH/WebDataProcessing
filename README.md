@@ -10,4 +10,4 @@ the classification of fake news and use the test set to verify the accuracy of m
 Considering that most previous works only analyze the title of news or the text of news, we propose
 to establish a suitable method, which can utilize both title and text, based on LSTM or Bi-LSTM.
 
-# WDPS_A_2_Code.zip contains all code we used in our project (Data-preprocessing, Development of machine learning model, Training, Evaluation)
+WDPS_A_2_Code.zip contains all code we used in our project (Data-preprocessing, Development of machine learning model, Training, Evaluation)
