@@ -1,4 +1,5 @@
 # WebDataProcessing VU
+## Utilizing LSTM Model and Ensemble Algorithm to Detect Fake News
 In the past many years, as the Internet has promoted the rapid development of information exchange,
 the spread of fake news has increased rapidly. This phenomenon is particularly obvious in the politi-
 cal and economic fields. The dissemination of this inconsistent information has caused many serious
